@@ -15,15 +15,9 @@
 		364B64651B0172A2009908D2 /* FirstWebAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 364B64641B0172A2009908D2 /* FirstWebAppTests.swift */; };
 		364B646F1B018C2A009908D2 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 364B646E1B018C2A009908D2 /* index.html */; };
 		364B64711B029315009908D2 /* MyCss.css in Resources */ = {isa = PBXBuildFile; fileRef = 364B64701B029315009908D2 /* MyCss.css */; };
-		364B64741B02954D009908D2 /* mainpage.html in Resources */ = {isa = PBXBuildFile; fileRef = 364B64731B02954D009908D2 /* mainpage.html */; };
-		364B647E1B02C555009908D2 /* Website.html in Resources */ = {isa = PBXBuildFile; fileRef = 364B647D1B02C555009908D2 /* Website.html */; };
-		364B64801B02C826009908D2 /* engage.png in Resources */ = {isa = PBXBuildFile; fileRef = 364B647F1B02C826009908D2 /* engage.png */; };
-		364B64831B02DA0A009908D2 /* CardFlip.css in Resources */ = {isa = PBXBuildFile; fileRef = 364B64811B02DA0A009908D2 /* CardFlip.css */; };
-		364B64841B02DA0A009908D2 /* CardFlip.js in Resources */ = {isa = PBXBuildFile; fileRef = 364B64821B02DA0A009908D2 /* CardFlip.js */; };
 		364B64861B06A1CC009908D2 /* interface.js in Resources */ = {isa = PBXBuildFile; fileRef = 364B64851B06A1CC009908D2 /* interface.js */; };
 		364B648C1B0A3BCF009908D2 /* app.css in Resources */ = {isa = PBXBuildFile; fileRef = 364B64881B0A3BCF009908D2 /* app.css */; };
 		364B648D1B0A3BCF009908D2 /* bootstrap.css in Resources */ = {isa = PBXBuildFile; fileRef = 364B64891B0A3BCF009908D2 /* bootstrap.css */; };
-		364B648E1B0A3BCF009908D2 /* controllers.js in Resources */ = {isa = PBXBuildFile; fileRef = 364B648A1B0A3BCF009908D2 /* controllers.js */; };
 		364B648F1B0A3BCF009908D2 /* angular.js in Resources */ = {isa = PBXBuildFile; fileRef = 364B648B1B0A3BCF009908D2 /* angular.js */; };
 /* End PBXBuildFile section */
 
@@ -50,15 +44,9 @@
 		364B64641B0172A2009908D2 /* FirstWebAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstWebAppTests.swift; sourceTree = "<group>"; };
 		364B646E1B018C2A009908D2 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		364B64701B029315009908D2 /* MyCss.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = MyCss.css; sourceTree = "<group>"; };
-		364B64731B02954D009908D2 /* mainpage.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = mainpage.html; sourceTree = "<group>"; };
-		364B647D1B02C555009908D2 /* Website.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Website.html; sourceTree = "<group>"; };
-		364B647F1B02C826009908D2 /* engage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = engage.png; sourceTree = "<group>"; };
-		364B64811B02DA0A009908D2 /* CardFlip.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = CardFlip.css; sourceTree = "<group>"; };
-		364B64821B02DA0A009908D2 /* CardFlip.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = CardFlip.js; sourceTree = "<group>"; };
 		364B64851B06A1CC009908D2 /* interface.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = interface.js; sourceTree = "<group>"; };
 		364B64881B0A3BCF009908D2 /* app.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = app.css; sourceTree = "<group>"; };
 		364B64891B0A3BCF009908D2 /* bootstrap.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = bootstrap.css; sourceTree = "<group>"; };
-		364B648A1B0A3BCF009908D2 /* controllers.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = controllers.js; sourceTree = "<group>"; };
 		364B648B1B0A3BCF009908D2 /* angular.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = angular.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,14 +91,9 @@
 			children = (
 				364B64881B0A3BCF009908D2 /* app.css */,
 				364B64891B0A3BCF009908D2 /* bootstrap.css */,
-				364B648A1B0A3BCF009908D2 /* controllers.js */,
 				364B648B1B0A3BCF009908D2 /* angular.js */,
 				364B64871B0A392A009908D2 /* js */,
-				364B64811B02DA0A009908D2 /* CardFlip.css */,
-				364B64821B02DA0A009908D2 /* CardFlip.js */,
-				364B647D1B02C555009908D2 /* Website.html */,
 				364B64701B029315009908D2 /* MyCss.css */,
-				364B64721B029423009908D2 /* images */,
 				364B644E1B0172A2009908D2 /* AppDelegate.swift */,
 				364B64501B0172A2009908D2 /* ViewController.swift */,
 				364B64521B0172A2009908D2 /* Main.storyboard */,
@@ -119,7 +102,6 @@
 				364B646E1B018C2A009908D2 /* index.html */,
 				364B64851B06A1CC009908D2 /* interface.js */,
 				364B644C1B0172A2009908D2 /* Supporting Files */,
-				364B64731B02954D009908D2 /* mainpage.html */,
 			);
 			path = FirstWebApp;
 			sourceTree = "<group>";
@@ -147,14 +129,6 @@
 				364B64631B0172A2009908D2 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		364B64721B029423009908D2 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				364B647F1B02C826009908D2 /* engage.png */,
-			);
-			name = images;
 			sourceTree = "<group>";
 		};
 		364B64871B0A392A009908D2 /* js */ = {
@@ -245,21 +219,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				364B64801B02C826009908D2 /* engage.png in Resources */,
-				364B64841B02DA0A009908D2 /* CardFlip.js in Resources */,
 				364B648D1B0A3BCF009908D2 /* bootstrap.css in Resources */,
 				364B64711B029315009908D2 /* MyCss.css in Resources */,
 				364B648C1B0A3BCF009908D2 /* app.css in Resources */,
 				364B64541B0172A2009908D2 /* Main.storyboard in Resources */,
-				364B648E1B0A3BCF009908D2 /* controllers.js in Resources */,
 				364B648F1B0A3BCF009908D2 /* angular.js in Resources */,
-				364B64741B02954D009908D2 /* mainpage.html in Resources */,
 				364B646F1B018C2A009908D2 /* index.html in Resources */,
 				364B64591B0172A2009908D2 /* LaunchScreen.xib in Resources */,
 				364B64861B06A1CC009908D2 /* interface.js in Resources */,
 				364B64561B0172A2009908D2 /* Images.xcassets in Resources */,
-				364B647E1B02C555009908D2 /* Website.html in Resources */,
-				364B64831B02DA0A009908D2 /* CardFlip.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
